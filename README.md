@@ -2,11 +2,17 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**1** solved · 0 problems · 1 labs · 0 math
+**2** solved · 1 problems · 1 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
 [**Browse the interactive portfolio**](https://sachinumrao.github.io/deep-ml/) to replay this filling in over time.
+
+## Problems
+
+| | Difficulty | Solved | |
+| --- | --- | --- | --- |
+| [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-10-21 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
 
 ## Labs
 
