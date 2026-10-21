@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-10-21T22:20:19.854Z",
+  "items": {
+    "lab:9ff596ea-672e-4101-9ce4-0856c55b62c9": {
+      "kind": "lab",
+      "id": "9ff596ea-672e-4101-9ce4-0856c55b62c9",
+      "title": "Fit Linear Regression with Autograd",
+      "difficulty": "medium",
+      "category": "PyTorch Fundamentals",
+      "url": "https://www.deep-ml.com/labs/9ff596ea-672e-4101-9ce4-0856c55b62c9",
+      "path": "labs/9ff596ea-672e-4101-9ce4-0856c55b62c9-fit-linear-regression-with-autograd",
+      "first_solved_at": "2026-10-21T22:20:13.550Z",
+      "last_pushed_at": "2026-10-21T22:20:13.550Z",
+      "language": "python",
+      "lines": 48
+    }
+  }
+}
